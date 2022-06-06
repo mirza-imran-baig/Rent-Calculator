@@ -69,15 +69,7 @@ def main():
 
                 ''')
 
-    #gitHub = 'https://github.com/MSufiyanAG/House-Hunter'
-    # if st.sidebar.butotn('GITHUB Link'):
-    # webbrowser.open_new_tab(gitHub)
-
-    # if st.sidebar.button('GITHUB Link'):
-    #     js = "window.open('https://github.com/MSufiyanAG/House-Hunter')"
-    #     html = '<img src onerror="{}">'.format(js)
-    #     div = Div(text=html)
-    #     st.bokeh_chart(div)
+   
 
     if choice == "[$$-PREDICTION-$$]":
 
